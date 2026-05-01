@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Recent **B.E. Computer Engineering** graduate from **IOE Pulchowk Campus** (Top 5% · Full Merit Scholar)
+- 🎓 Recent **B.E. Computer Engineering** graduate from **IOE Pulchowk Campus**
 - 💼 ML Engineer at **Kumari AI, USA (Remote)** — building multimodal anomaly detection & speech systems
 - 🏆 **5th Place Globally** — BraTS 2025 Pathological Image Classification Challenge
 - 🗣️ Built one of the first **deep learning ASR systems for Nepali** (~9.5% WER)
