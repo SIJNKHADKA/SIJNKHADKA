@@ -57,18 +57,3 @@
 | 🎨 **Carpet Design Generator** | Stable Diffusion ControlNet + LoRA + CLIP for pattern generation | **5s inference time** |
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIJNKHADKA&show_icons=true&locale=en&layout=compact" alt="sijan" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIJNKHADKA&show_icons=true&locale=en" alt="sijan" />
-</p>
-
-<br clear="both"/>
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=SIJNKHADKA&limit=5&theme=flat&combine_all_yearly_contributions=true)
