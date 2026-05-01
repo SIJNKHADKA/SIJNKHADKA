@@ -1,34 +1,74 @@
-<h1 align="center">Hi 👋, I'm SIJAN KHADKA</h1>
-<h3 align="center">"Crafting Innovative Solutions Through Code"</h3>
+<h1 align="center">Hi 👋, I'm Sijan Khadka</h1>
+<h3 align="center">ML/AI Engineer · Multimodal Systems · Speech Processing · Medical Imaging</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sijan&label=Profile%20views&color=0e75b6&style=flat" alt="sijan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SIJNKHADKA&label=Profile%20views&color=0e75b6&style=flat" alt="sijan" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🌱 I’m currently learning **ANDROID DEVELOPMENT,WEB DEVELOPMENT**
+### 🧠 About Me
 
-- 📫 How to reach me **insijanced2341@gmail.com**
+- 🎓 Recent **B.E. Computer Engineering** graduate from **IOE Pulchowk Campus** (Top 5% · Full Merit Scholar)
+- 💼 ML Engineer at **Kumari AI, USA (Remote)** — building multimodal anomaly detection & speech systems
+- 🏆 **5th Place Globally** — BraTS 2025 Pathological Image Classification Challenge
+- 🗣️ Built one of the first **deep learning ASR systems for Nepali** (~9.5% WER)
+- 🚗 **Best Project Award (IOE 2024)** — Autonomous Self-Driving Car
+- 📫 Reach me at: **sijankhadkachhetri@gmail.com**
 
+---
 
+### 🏅 Highlights
 
-<h3 align="left">Connect with me:</h3>
+- 🔬 Ranked **5th globally** in BraTS 2025 (multimodal cross-attention classification)
+- 📉 Reduced model inference cost by **32%** and experimentation time by **40%** at Kumari AI
+- 👥 AI features shipped to **5,000+ users**
+- 🎓 Full Merit Scholarship · Government of Nepal Scholar (Class 12)
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijan&show_icons=true&locale=en&layout=compact" alt="sijan" /></p>
+### 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijan&show_icons=true&locale=en" alt="sijan" /></p>
+| Project | Description | Key Result |
+|---|---|---|
+| 🧬 **BraTS 2025 Classification** | Multimodal image+text classification using cross-attention | **5th place globally** |
+| 🗣️ **Nepali ASR System** | Conformer-based speech recognition for Nepali language | **~9.5% WER** |
+| ✍️ **Handwritten Doc Recognizer** | YOLO + CRNN + BERT for OCR and automated grading | **CER: 0.11** |
+| 🚗 **Self-Driving Car** | Lane tracking, obstacle avoidance, traffic detection (Raspberry Pi + OpenCV) | **Best Project Award 2024** |
+| 🎨 **Carpet Design Generator** | Stable Diffusion ControlNet + LoRA + CLIP for pattern generation | **5s inference time** |
 
-## 🔝 Top Contributed Repo
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SIJNKHADKA&show_icons=true&locale=en&layout=compact" alt="sijan" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SIJNKHADKA&show_icons=true&locale=en" alt="sijan" />
+</p>
+
+<br clear="both"/>
+
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=SIJNKHADKA&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
