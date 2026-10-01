@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sijan Khadka</h1>
-<h3 align="center">ML/AI Engineer · Multimodal Systems · Speech Processing · Medical Imaging</h3>
+# Hi 👋, I'm Sijan Khadka
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SIJNKHADKA&label=Profile%20views&color=0e75b6&style=flat" alt="sijan" /> </p>
+### ML/AI Engineer · Multimodal Systems · Speech Processing · Medical Imaging
+
+![Profile Views](https://komarev.com/ghpvc/?username=SIJNKHADKA&label=Profile%20views&color=0e75b6&style=flat)
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -11,7 +12,6 @@
 
 - 🎓 Recent **B.E. Computer Engineering** graduate from **IOE Pulchowk Campus**
 - 💼 ML Engineer at **Kumari AI, USA (Remote)** — building multimodal anomaly detection & speech systems
-- 🏆 **5th Place Globally** — BraTS 2025 Pathological Image Classification Challenge
 - 🗣️ Built one of the first **deep learning ASR systems for Nepali** (~9.5% WER)
 - 🚗 **Best Project Award (IOE 2024)** — Autonomous Self-Driving Car
 - 📫 Reach me at: **sijankhadkachhetri@gmail.com**
@@ -20,7 +20,6 @@
 
 ### 🏅 Highlights
 
-- 🔬 Ranked **5th globally** in BraTS 2025 (multimodal cross-attention classification)
 - 📉 Reduced model inference cost by **32%** and experimentation time by **40%** at Kumari AI
 - 👥 AI features shipped to **5,000+ users**
 - 🎓 Full Merit Scholarship · Government of Nepal Scholar (Class 12)
@@ -50,7 +49,6 @@
 
 | Project | Description | Key Result |
 |---|---|---|
-| 🧬 **BraTS 2025 Classification** | Multimodal image+text classification using cross-attention | **5th place globally** |
 | 🗣️ **Nepali ASR System** | Conformer-based speech recognition for Nepali language | **~9.5% WER** |
 | ✍️ **Handwritten Doc Recognizer** | YOLO + CRNN + BERT for OCR and automated grading | **CER: 0.11** |
 | 🚗 **Self-Driving Car** | Lane tracking, obstacle avoidance, traffic detection (Raspberry Pi + OpenCV) | **Best Project Award 2024** |
